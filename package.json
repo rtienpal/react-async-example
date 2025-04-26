@@ -10,12 +10,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "framer-motion": "^12.9.2",
+    "lucide-react": "^0.503.0",
     "react": "^19.0.0",
+    "react-bootstrap": "^2.10.9",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.22.0",
     "@types/react": "^19.0.10",
+    "@types/react-bootstrap": "^0.32.37",
     "@types/react-dom": "^19.0.4",
     "@vitejs/plugin-react": "^4.3.4",
     "eslint": "^9.22.0",
